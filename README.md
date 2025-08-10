@@ -1,6 +1,6 @@
 # 📚🏆 BDACS Practice Contests  
 
-A collection of **contest details** and **solutions** from the BDACS Practice Contests I organized.  
+A collection of **contest details** and **solutions** from the BDACS Practice Contests organized by me.  
 Serves as a resource for reviewing challenges, studying solutions, and tracking contest performance.  
 
 — *Darpan*
