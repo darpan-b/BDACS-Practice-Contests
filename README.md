@@ -1,6 +1,6 @@
 # 📚🏆 BDACS Practice Contests  
 
-This repository contains information and solutions for the BDA-CS Practice Contests.  
-It serves as a reference for contest details, problem statements, and implemented solutions.  
+A collection of **contest details** and **solutions** from the BDACS Practice Contests I organized.  
+Serves as a resource for reviewing challenges, studying solutions, and tracking contest performance.  
 
-— *Darpan*  
+— *Darpan*
