@@ -11,6 +11,6 @@
 
 | 📈 Metric | 📌 Value |
 |-----------|----------|
-| **Registrants** | — |
-| **Participants** | — |
-| **Problems** | — |
+| **Registrants** | 15 |
+| **Participants** | 9 |
+| **Problems** | 5 |
