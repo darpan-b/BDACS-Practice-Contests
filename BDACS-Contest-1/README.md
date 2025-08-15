@@ -17,16 +17,6 @@
 
 ---
 
-### 🏆 Standings  
-
-| Rank | Name |
-|------|------|
-| 🥇 1 | **Ayan Banerjee** |
-| 🥈 2 | Ronak Sarkar |
-| 🥉 3 | Arnab Banerjee |
-
----
-
 ### 💬 Solution Discussion  
 The solutions were discussed on **August 10, 2025**, from **4:00 PM – 5:00 PM** on Google Meet.
     
