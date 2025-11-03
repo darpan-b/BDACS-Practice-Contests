@@ -1,4 +1,4 @@
-# Solution by Partha Mete
+# Solution by Arnab Singha
 
 
 #!/bin/python3
